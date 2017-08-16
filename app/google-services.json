@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "521652852572",
+    "firebase_url": "https://wifi-analyzer-ad-free.firebaseio.com",
+    "project_id": "wifi-analyzer-ad-free",
+    "storage_bucket": "wifi-analyzer-ad-free.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521652852572:android:ecc9278e924a28f1",
+        "android_client_info": {
+          "package_name": "com.galaxy.wifianalyzar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521652852572-obe5fb15mtkhc4bulod66fbqp32vgaon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxSwq_sM4cdvOe3UKH-TKuN3VnCn3h_VQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
