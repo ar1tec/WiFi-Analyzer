@@ -3,11 +3,7 @@
 <resources>
     <!-- application start -->
     <string name="app_name">WiFi Analyzer</string>
-    <!--
-       <string name="ad_unit_id">ca-app-pub-3940256099942544/1072772517</string>-->
-
-
-    <string name="ad_unit_id">ca-app-pub-9192948434013012/8805825486</string>
+    
     <string name="new_rate_dialog_title">Rate Me!</string>
     <string name="new_rate_dialog_never">Never</string>
     <string name="new_rate_dialog_later">Later</string>
@@ -75,7 +71,7 @@
     <string name="scan_interval_key" translatable="false">scan_interval</string>
     <integer name="scan_interval_min" translatable="false">1</integer>
     <integer name="scan_interval_max" translatable="false">30</integer>
-    <integer name="scan_interval_default" translatable="false">10</integer>
+    <integer name="scan_interval_default" translatable="false">2</integer>
 
     <string name="sort_by_title">Sort Access Points By</string>
     <string name="sort_by_summary" translatable="false">%s</string>
