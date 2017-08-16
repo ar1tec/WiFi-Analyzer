@@ -37,9 +37,7 @@ import com.galaxy.wifianalyzar.settings.ThemeStyle;
 
 public class AboutActivity extends AppCompatActivity  {
 
-    //private String adPlacementId = "1755828284679452_1756620677933546";
-    // test id
-    //private String adPlacementId = "893127754073705_909205119132635";
+   
 
     private ProgressBar spinner;
 public com.google.android.gms.ads.NativeExpressAdView Gads;
@@ -68,7 +66,7 @@ public com.google.android.gms.ads.NativeExpressAdView Gads;
 
 
                                         Intent intent = new Intent(Intent.ACTION_VIEW);
-                                        intent.setData(Uri.parse("https://drive.google.com/open?id=0B089ZNj1OzvDWHM1ZlJZLVV6V28"));
+                                        intent.setData(Uri.parse("https://github.com/galaxydevelopers/WiFi-Analyzer"));
                                         startActivity(intent);
 // request your webservice here. Possible use of AsyncTask and  ProgressDialog
 // show the result here - dialog or Toas
