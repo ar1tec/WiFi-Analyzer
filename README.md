@@ -29,7 +29,7 @@ Some User reported This is an "issue of Android OS 6(M) and 7(N),
 
 
 ## Feedback:
-Suggestion And Issues Share[here](https://github.com/galaxydevelopers/WiFi-Analyzer/issues) or use [Email](mailto:galaxyappdevelopers@gmail.com?subject=Feedback%20about%20WiFi%20Analyzer).
+Suggestion And Issues Share [here](https://github.com/galaxydevelopers/WiFi-Analyzer/issues) or use [Email](mailto:galaxyappdevelopers@gmail.com?subject=Feedback%20about%20WiFi%20Analyzer).
 
 ## License:
 WiFi Analyzer is licensed under the Apache License, Version 2.0.
