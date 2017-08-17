@@ -29,12 +29,12 @@ Some User reported This is an "issue of Android OS 6(M) and 7(N),
 
 
 ## Feedback:
-Suggestion And Issues Share [here](https://github.com/galaxydevelopers/WiFi-Analyzer/issues) or use [Email](mailto:galaxyappdevelopers@gmail.com?subject=Feedback%20about%20WiFi%20Analyzer).
+Suggestion And Issues Share [here](https://github.com/galaxydevelopers/WiFi-Analyzer/issues) or use [Email](mailto:galaxyappdevelopers@gmail.com?subject=Feedback%20about%20WiFi%20Analyzer),galaxyappdevelopers@gmail.com.
 
 ## License:
-WiFi Analyzer is licensed under the Apache License, Version 2.0.
+WiFi Analyzer is licensed under the GPLv3.
 
-You can find the license text [here](http://www.apache.org/licenses/LICENSE-2.0).
+You can find the license text [here](http://www.gnu.org/licenses/gpl-3.0.html).
 
 
 ### Fork project
