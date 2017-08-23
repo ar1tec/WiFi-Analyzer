@@ -37,7 +37,7 @@ WiFi Analyzer is licensed under the GNU General Public License v3.0 (GNU GPLv3)
 You can find the license text [here](http://www.gnu.org/licenses/gpl-3.0.html).
 
 ## acknowledgements:
-This Application is Modified application of WiFiAnalyzer(open-source) Application Whic 
+This Application is Modified application of WiFiAnalyzer(open-source) Application Which
    Is Originally developed by VREM Software Development.
 
 Link to Source Code Of WiFiAnalyzer(open-source) "https://vremsoftwaredevelopment.github.io/WiFiAnalyzer"
