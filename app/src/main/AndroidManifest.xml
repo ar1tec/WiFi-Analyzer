@@ -51,6 +51,18 @@
                 android:value="com.galaxy.wifianalyzar.MainActivity" />
 
         </activity>
+        
+          <activity
+            android:name="com.galaxy.wifianalyzar.about.AdvertisementActivity"
+            android:label="@string/action_advertise"
+
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:parentActivityName="com.galaxy.wifianalyzar.MainActivity">
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value="com.galaxy.wifianalyzar.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
